@@ -1,0 +1,95 @@
+{
+  "status": true,
+  "response": [
+    {
+      "id": 1,
+      "type": "auto",
+      "name": "Булгаково",
+      "location": {
+        "latitude": 54.5013141,
+        "longitude": 55.8805718
+      }
+    },
+    {
+      "id": 2,
+      "type": "hydro",
+      "name": "г. Уфа (р. Белая)",
+      "location": {
+        "latitude": 54.7197192,
+        "longitude": 55.9071064
+      }
+    },
+    {
+      "id": 3,
+      "type": "auto",
+      "name": "г. Уфа (Монумент Дружбы)",
+      "location": {
+        "latitude": 54.7097272,
+        "longitude": 55.9545279
+      }
+    },
+    {
+      "id": 4,
+      "type": "hydro",
+      "name": "Шакша (р. Уфа)",
+      "location": {
+        "latitude": 54.7906489,
+        "longitude": 56.2297440
+      }
+    },
+    {
+      "id": 5,
+      "type": "auto",
+      "name": "Уфа (Шакша)",
+      "location": {
+        "latitude": 54.7867413,
+        "longitude": 56.2184143
+      }
+    },
+    {
+      "id": 6,
+      "type": "auto",
+      "name": "Ильино - Поляна",
+      "location": {
+        "latitude": 55.0520590,
+        "longitude": 56.1854553
+      }
+    },
+    {
+      "id": 7,
+      "type": "auto",
+      "name": "Укман",
+      "location": {
+        "latitude": 55.0622789,
+        "longitude": 56.4206314
+      }
+    },
+    {
+      "id": 8,
+      "type": "hydro",
+      "name": "с. Красная Горка (р. Уфа)",
+      "location": {
+        "latitude": 55.1915674,
+        "longitude": 56.6642189
+      }
+    },
+    {
+      "id": 9,
+      "type": "hydro",
+      "name": "г. Бирск (р. Белая)",
+      "location": {
+        "latitude": 55.4261027,
+        "longitude": 55.5209198
+      }
+    },
+    {
+      "id": 10,
+      "type": "auto",
+      "name": "Бирск",
+      "location": {
+        "latitude": 55.4566665,
+        "longitude": 55.5332794
+      }
+    }
+  ]
+}
